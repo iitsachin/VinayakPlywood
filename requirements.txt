@@ -1,5 +1,4 @@
 certifi==2020.12.5
-Django @ file:///tmp/build/80754af9/django_1612212120213/work
 gunicorn==20.1.0
 whitenoise==5.2.0
 wincertstore==0.2
